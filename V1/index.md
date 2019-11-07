@@ -81,3 +81,4 @@ uid: index
 - [Command Line](xref:commandLine)
 - [Troubleshooting](xref:troubleShooting)
 - [Release Notes](xref:releaseNotes)
+- [Disaster Recovery](xref:disasterRecovery)
